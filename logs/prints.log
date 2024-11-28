@@ -1,0 +1,42 @@
+22:55:21.431 [main] INFO  api.testcases.userTests - ***** Creating User ***
+22:55:24.395 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+22:55:24.412 [main] INFO  api.testcases.userTests - ***** Reading User ***
+22:55:25.867 [main] INFO  api.testcases.userTests - ***** Updating User ***
+22:55:28.231 [main] INFO  api.testcases.userTests - ***** User is updated ***
+22:55:29.653 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+22:55:31.186 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+23:14:03.037 [main] INFO  api.testcases.userTests - ***** Creating User ***
+23:14:06.287 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+23:14:06.318 [main] INFO  api.testcases.userTests - ***** Reading User ***
+23:14:07.813 [main] INFO  api.testcases.userTests - ***** Updating User ***
+23:14:09.346 [main] INFO  api.testcases.userTests - ***** User is updated ***
+23:14:10.884 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+23:14:12.317 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+23:14:38.797 [main] INFO  api.testcases.userTests - ***** Creating User ***
+23:14:41.579 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+23:14:41.584 [main] INFO  api.testcases.userTests - ***** Reading User ***
+23:14:43.144 [main] INFO  api.testcases.userTests - ***** Updating User ***
+23:14:44.673 [main] INFO  api.testcases.userTests - ***** User is updated ***
+23:14:46.210 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+23:14:47.743 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+23:15:56.615 [main] INFO  api.testcases.userTests - ***** Creating User ***
+23:15:59.715 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+23:15:59.719 [main] INFO  api.testcases.userTests - ***** Reading User ***
+23:16:01.275 [main] INFO  api.testcases.userTests - ***** Updating User ***
+23:16:02.809 [main] INFO  api.testcases.userTests - ***** User is updated ***
+23:16:04.348 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+23:16:05.881 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+23:40:19.591 [main] INFO  api.testcases.userTests - ***** Creating User ***
+23:40:22.516 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+23:40:22.521 [main] INFO  api.testcases.userTests - ***** Reading User ***
+23:40:24.108 [main] INFO  api.testcases.userTests - ***** Updating User ***
+23:40:25.638 [main] INFO  api.testcases.userTests - ***** User is updated ***
+23:40:27.181 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+23:40:28.713 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+23:41:57.077 [main] INFO  api.testcases.userTests - ***** Creating User ***
+23:42:00.044 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+23:42:00.050 [main] INFO  api.testcases.userTests - ***** Reading User ***
+23:42:01.695 [main] INFO  api.testcases.userTests - ***** Updating User ***
+23:42:03.230 [main] INFO  api.testcases.userTests - ***** User is updated ***
+23:42:04.767 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+23:42:06.300 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
