@@ -4,11 +4,12 @@ import api.endpoints.userEndPoints;
 import api.payload.User;
 import api.utilities.DataProviders;
 import io.restassured.response.Response;
+import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class DDTests {
-
+    public Logger logger;
 
     @Test(priority = 1, dataProvider = "data", dataProviderClass = DataProviders.class)
     public void testPostUser(String id, String username, String fname, String lname, String email, String pswd, String phone) {
