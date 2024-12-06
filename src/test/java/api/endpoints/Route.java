@@ -12,4 +12,7 @@ public class Route {
     public static String putUrl = baseUrl + "/user/{username}";
     public static String deleteUrl = baseUrl + "/user/{username}";
 
+    public static String getStoreUrl = baseUrl + "/store/order/{orderID}";
+    public static String postStoreUrl = baseUrl + "/store/order";
+    public static String deleteStoreUrl = baseUrl + "/store/order/{orderID}";
 }

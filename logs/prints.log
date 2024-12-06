@@ -40,3 +40,15 @@
 23:42:03.230 [main] INFO  api.testcases.userTests - ***** User is updated ***
 23:42:04.767 [main] INFO  api.testcases.userTests - ***** Deleting User ***
 23:42:06.300 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+13:26:30.076 [main] INFO  api.testcases.userTests - ***** Creating User ***
+13:26:33.166 [main] INFO  api.testcases.userTests - ***** User is created Successfully ***
+13:26:33.169 [main] INFO  api.testcases.userTests - ***** Reading User ***
+13:26:34.607 [main] INFO  api.testcases.userTests - ***** Updating User ***
+13:26:35.947 [main] INFO  api.testcases.userTests - ***** User is updated ***
+13:26:37.331 [main] INFO  api.testcases.userTests - ***** Deleting User ***
+13:26:38.721 [main] INFO  api.testcases.userTests - ***** User is deleted successfully ***
+13:50:31.756 [main] INFO  api.testcases.orderTests - ***** Creating Order ***
+13:50:34.871 [main] INFO  api.testcases.orderTests - ***** Order is created Successfully ***
+13:50:34.875 [main] INFO  api.testcases.orderTests - ***** Reading Order ***
+13:50:36.264 [main] INFO  api.testcases.orderTests - ***** Deleting User ***
+13:50:37.617 [main] INFO  api.testcases.orderTests - ***** Order is deleted successfully ***
