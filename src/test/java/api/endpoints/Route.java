@@ -4,6 +4,7 @@ package api.endpoints;
 public class Route {
 
     public static String baseUrl = "https://petstore.swagger.io/v2";
+    public static String wiremock_baseUrl = "http://localhost:8080/";
 
 //   User Modules
 
@@ -15,4 +16,6 @@ public class Route {
     public static String getStoreUrl = baseUrl + "/store/order/{orderID}";
     public static String postStoreUrl = baseUrl + "/store/order";
     public static String deleteStoreUrl = baseUrl + "/store/order/{orderID}";
+
+    public static String findByStatusUrl = wiremock_baseUrl + "findByStatus";
 }
