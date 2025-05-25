@@ -56,8 +56,9 @@ public class orderTests {
         response
                 .then().log().all();
 
+        int orderId = response.jsonPath().getInt("id");
 
-        Assert.assertEquals(response.getStatusCode(), 200);
+        Assert.assertEquals(orderId, this.orderpayload.getId(),"Order Id Is Matching");
     }
 
 
